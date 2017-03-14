@@ -1,0 +1,4 @@
+1,2176161A,Manel Marquez,mamase@gmail.com,29/05/1996,Barcelona,08031,666841669,933578148,c/pintor Mir 16,barcelones,2,700,29/31/2016,30/2/2017,1,1,Activo,300
+2,2176456B,Jana Ruiz,jaruz@gmail.com,20/05/1993,Madrid,08061,666841661,933578154,c/fargas 15,Madrid,1,800,29/31/2016,28/01/2017,1,1,pendiente,500
+3,2177777A,Alex Moron,moruz@gmail.com,15/05/1990,Barcelona,08031,666841555,933578112,c/fastelraz 12,barcelones,6,700,29/31/2016,21/05/2017,1,1,Activo,800
+4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
